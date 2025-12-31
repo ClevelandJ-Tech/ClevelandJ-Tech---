@@ -139,5 +139,6 @@ For project collaboration, questions, or opportunities:
 - 📧 [Email](mailto:Cleveland.Johnson279@gmail.com)
 - 💻 [GitHub](https://github.com/ClevelandJ-Tech)
 
-- ⚡ *"Building practical skills one project at a time."*
+
+⚡ *"Building practical skills one project at a time."*
 
