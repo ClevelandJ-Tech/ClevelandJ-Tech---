@@ -111,12 +111,6 @@ I am actively building hands-on cybersecurity skills through the **Josh Madakor 
 
 ---
 
-## 📊 GitHub Activity
-
-![Cleveland's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClevelandJ-Tech&show_icons=true&theme=tokyonight)
-
----
-
 ## 💡 What I'm Currently Working On
 
 - 🔨 Building AWS infrastructure projects for hands-on cloud experience
