@@ -130,11 +130,6 @@ I'm always interested in connecting and collaborating on:
 - 📚 Learning opportunities and study groups
 
 **Reach out via [LinkedIn](https://linkedin.com/in/cleveland-johnson) or explore my repositories!**
-
----
-
-⚡ *"Building practical skills one project at a time."*
-
 ---
 
 ## 📫 Contact Me
@@ -143,3 +138,6 @@ For project collaboration, questions, or opportunities:
 - 💼 [LinkedIn](https://linkedin.com/in/cleveland-johnson)
 - 📧 [Email](mailto:Cleveland.Johnson279@gmail.com)
 - 💻 [GitHub](https://github.com/ClevelandJ-Tech)
+
+- ⚡ *"Building practical skills one project at a time."*
+
